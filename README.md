@@ -30,15 +30,15 @@ Responsive Images: Added max-width: 100% and height: auto
 [File Structure
 plain
 /
-├── index.html
-├── about.html
-├── services.html
-├── gallery.html
-├── contact.html
-├── booknow.html
-├── CSS/
-│   └── style.css
-└── README.md]
+-index.html
+- about.html
+- services.html
+- gallery.html
+- contact.html
+- booknow.html
+- CSS/
+  -style.css
+- README.md]
 Responsive Breakpoints
 Table
 Breakpoint	Target Devices	Changes
