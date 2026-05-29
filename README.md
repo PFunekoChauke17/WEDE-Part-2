@@ -15,6 +15,7 @@ Changes from Part 1 Feedback
 - Standardized header/nav across all pages
 - No security on external links
 - No print styles fix ]
+
 Part 2 Additions
 External CSS: Created CSS/style.css and linked to all HTML pages
 CSS Reset: Added universal reset for consistent cross-browser styling
@@ -25,7 +26,8 @@ Interactive Elements: Added :hover, :focus, :active pseudo-classes
 Responsive Design: Implemented breakpoints at 1024px, 768px, and 480px
 Relative Units: Used rem and em throughout
 Responsive Images: Added max-width: 100% and height: auto
-File Structure
+
+[File Structure
 plain
 /
 ├── index.html
@@ -36,7 +38,7 @@ plain
 ├── booknow.html
 ├── CSS/
 │   └── style.css
-└── README.md
+└── README.md]
 Responsive Breakpoints
 Table
 Breakpoint	Target Devices	Changes
